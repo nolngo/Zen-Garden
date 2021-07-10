@@ -18,6 +18,11 @@ header h2{
   font-size: 34px;
 }
 h3{
-  margin-top: 2rem;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
   font-size: 22px;
+}
+p {
+  margin-bottom: 1rem;
+  line-height: 1.5rem;
 }
